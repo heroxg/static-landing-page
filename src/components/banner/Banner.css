@@ -1,0 +1,35 @@
+.bg-light {
+	float: left;
+	width: 100%;
+	background: transparent !important;
+}
+.banner-wrap {
+	float: left;
+	width: 100%;
+}
+.banner-left {
+	padding-top: 110px;
+}
+.banner-left h4 {
+	color: #a63131;
+	font-weight: bold;
+	font-size: 28px;
+}
+.banner-left h1 {
+	font-size: 40px;
+	font-weight: normal;
+}
+.banner-right {
+	text-align: center;
+}
+.banner-right img {
+	padding-left: 50px;
+	padding-top: 15px;
+}
+#google-store {
+	margin-right: 10px;
+}
+.stores {
+	float: left;
+	margin-top: 50px;
+}

@@ -1,0 +1,83 @@
+@media screen and (max-width: 3840px) {
+	.header {
+		background-position: 63% !important;
+	}
+}
+@media screen and (max-width: 3220px) {
+	.header {
+		background-position: 66% !important;
+	}
+}
+@media screen and (max-width: 2740px) {
+	.header {
+		background-position: 70% !important;
+	}
+}
+@media screen and (max-width: 2360px) {
+	.header {
+		background-position: 73% !important;
+	}
+}
+@media screen and (max-width: 2080px) {
+	.header {
+		background-position: 78% !important;
+	}
+}
+@media screen and (max-width: 1890px) {
+	.header {
+		background-position: 82% !important;
+	}
+}
+@media screen and (max-width: 1730px) {
+	.header {
+		background-position: 86% !important;
+	}
+}
+@media screen and (max-width: 1620px) {
+	.header {
+		background-position: 89% !important;
+	}
+}
+@media screen and (max-width: 1500px) {
+	.header {
+		background-position: 100% !important;
+	}
+}
+@media screen and (max-width: 960px) {
+	.stores > a {
+		margin-bottom: 10px !important;
+		display: inline-block;
+	}
+	.banner-left {
+		padding-top: 80px !important;
+	}
+	.banner-right img {
+		padding-left: 0px !important;
+	}
+}
+@media screen and (max-width: 920px) {
+	.header {
+		background: #fff !important;
+	}
+	.banner-wrap {
+		padding-top: 50px;
+	}
+	.header {
+		height: unset !important;
+	}
+	.banner-left {
+		padding-top: 0px !important;
+	}
+	.stores {
+		margin-top: 30px !important
+	}
+	.banner-right {
+		padding-bottom: 30px;
+		padding-top: 30px;
+	}
+}
+@media screen and (max-width: 767px) {
+	.card-unique {
+		margin-bottom: 30px;
+	}
+}

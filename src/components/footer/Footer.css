@@ -1,0 +1,76 @@
+.footer {
+	float: left;
+	width: 100%;
+	background: #060606;
+	color: #fff;
+	padding-top: 50px;
+}
+.bottom-footer {
+	float: left;
+	width: 100%;
+	background: #282727;
+	text-align: center;
+	color: #f7f7f7;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+.bottom-footer p {
+	margin-bottom: 0px;
+	font-size: 14px;
+	color: #8a8989;
+}
+.footer ul {
+    margin-left: 0px;
+    padding-left: 0px;
+}
+.footer-contents ul li {
+	list-style: none;
+}
+.footer-contents ul li a {
+	text-decoration: none;
+	color: #fff;
+}
+#footer_col1 ul li span {
+	margin-right: 10px;
+}
+#social ul li {
+	display: inline-block;
+	margin-right: 10px;
+	border-radius: 100%;
+    font-size: 15px;
+    padding: 7px 15px;
+    background: #848383;
+    width: 40px;
+    height: 40px;
+}
+#social ul li a {
+	font-size: 16px;
+	display: block;
+}
+#footer-link li, #footer_col1 li {
+	line-height: 34px;
+}
+.scrolled-header {
+	float: left;
+	width: 100%;
+	background: #fff;
+	box-shadow: 3px 0px 3px 0px #ccc;
+	position: fixed;
+	z-index: 100;
+	transition: all 0.25s ease-in-out;
+}
+.mobile-logo {
+	text-align: center;
+	float: left;
+	width: 100%;
+	font-size: 20px;
+	display: none;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+.mobile-logo a {
+	color: #212529;
+}
+#social ul li:hover {
+	background: #444;
+}

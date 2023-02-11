@@ -1,0 +1,13 @@
+li.nav-item {
+	margin-right: 10px;
+}
+li.nav-item:last-child {
+	margin-right: 0px;
+}
+li.nav-item:last-child a {
+	background: #6c9bf5;
+	color: #fff !important;
+	border-radius: 4px;
+	padding: 5px 15px;
+    margin-top: 2px;
+}
